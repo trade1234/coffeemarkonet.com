@@ -33,6 +33,12 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.new10{
+  text-align: justify;
+}
+.description{
+  text-align: justify;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -238,6 +244,12 @@ h6 {
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
   border-radius: 4px;
+}
+.row1{
+  
+}
+.icon-box{
+  height: 80%;
 }
 
 .navbar .dropdown ul li {
