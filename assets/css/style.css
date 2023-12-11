@@ -33,6 +33,10 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+/* .logo{
+  height: 20ch;
+  width: 90ch;
+} */
 .new10{
   text-align: justify;
 }
@@ -128,7 +132,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  height: 70px;
+  height: 80px;
   transition: all 0.5s;
   z-index: 997;
   background: #fff;
@@ -150,6 +154,7 @@ h6 {
 #header .logo h1 a:hover {
   color: #635551;
   text-decoration: none;
+  height: 100%;
 }
 
 #header .logo img {
